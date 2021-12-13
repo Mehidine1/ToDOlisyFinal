@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "868872223626",
+    "project_id": "todofinalapp-d8045",
+    "storage_bucket": "todofinalapp-d8045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868872223626:android:b96f3965cdf4c432f7e673",
+        "android_client_info": {
+          "package_name": "com.example.finalfinalfinalmehidine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868872223626-lpd84sdb6hro0vsn1ca7kqufdqrtneer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDJX4Fan_TDjY28STMdiUTajBxQzCrxI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868872223626-lpd84sdb6hro0vsn1ca7kqufdqrtneer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868872223626:android:4a94d07236f0fc39f7e673",
+        "android_client_info": {
+          "package_name": "com.example.finalfinalmehidine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868872223626-lpd84sdb6hro0vsn1ca7kqufdqrtneer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDJX4Fan_TDjY28STMdiUTajBxQzCrxI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868872223626-lpd84sdb6hro0vsn1ca7kqufdqrtneer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868872223626:android:63aaa54c1eb4ccc7f7e673",
+        "android_client_info": {
+          "package_name": "com.mehidine.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868872223626-lpd84sdb6hro0vsn1ca7kqufdqrtneer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDJX4Fan_TDjY28STMdiUTajBxQzCrxI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868872223626-lpd84sdb6hro0vsn1ca7kqufdqrtneer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
